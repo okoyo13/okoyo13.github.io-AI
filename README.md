@@ -1,30 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+Hi there 👋 I'm Okoyo13
 
-</head>
-<body>
-    <h1>Welcome! I'm okoyo13</h1>
-    <div class="section">
-        <h2>About Me</h2>
-        <p>I'm a student currently learning Artificial Intelligence.
-           I'm interested in Machine and Deep learning.</p>
-    </div>
-    <div class="section">
-        <h2>What I'm Learning</h2>
-        <ul>
-            <li>Git and GitHub</li>
-            <li>Linux Commands and Python</li>
-        </ul>
-    </div>
-    <div class="section">
-        <h2>Links</h2>
-        <ul>
-            <li><a href="https://github.com/okoyo13">My GitHub Profile</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+I'm an aspiring AI enthusiast currently learning Artificial Intelligence and building my skills in data analysis, machine learning, and problem-solving.
+
+About Me
+
+🌱 Currently learning Artificial Intelligence (AI)
+📊 Interested in Data Analysis and Machine Learning
+💻 Exploring Python and AI tools
+📚 Passionate about turning data into useful insights
+🚀 Continuously improving my technical and analytical skills
+🎯 Goal: Build AI-powered solutions that solve real-world problems
+Skills I'm Building
+
+AI Fundamental
+Machine Learning
+Deep Learning
+Data Analytics
+Python Programming
+Current Project
+
+I'm working on strengthening my foundation in AI, data analytics, and machine learning while building practical projects to gain hands-on experience.
+
+Fun Fact
+
+I enjoy working with numbers, analyzing data, and discovering patterns that can help businesses make better decisions.
+
+How to Reach Me
+
+Email : okoyorodricks@gmail.com
