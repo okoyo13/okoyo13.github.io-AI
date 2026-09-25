@@ -4,20 +4,21 @@ I'm an aspiring AI enthusiast currently learning Artificial Intelligence and bui
 
 About Me
 
-🌱 Currently learning Artificial Intelligence (AI)
-📊 Interested in Data Analysis and Machine Learning
-💻 Exploring Python and AI tools
-📚 Passionate about turning data into useful insights
-🚀 Continuously improving my technical and analytical skills
-🎯 Goal: Build AI-powered solutions that solve real-world problems
+-🌱 Currently learning Artificial Intelligence (AI)
+-📊 Interested in Data Analysis and Machine Learning
+-💻 Exploring Python and AI tools
+-📚 Passionate about turning data into useful insights
+-🚀 Continuously improving my technical and analytical skills
+-🎯 Goal: Build AI-powered solutions that solve real-world problems
+
 Skills I'm Building
 
-AI Fundamental
-Machine Learning
-Deep Learning
-Data Analytics
-Python Programming
-Current Project
+-AI Fundamental
+-Machine Learning
+-Deep Learning
+-Data Analytics
+-Python Programming
+-Current Project
 
 I'm working on strengthening my foundation in AI, data analytics, and machine learning while building practical projects to gain hands-on experience.
 
